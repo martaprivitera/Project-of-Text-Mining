@@ -101,5 +101,7 @@ In order to run this file, please, follow these steps:
 
 1.	run the first and the second chunks in the “Install” section. Then select “restart session” under the second chunk and put a # before all the content in the second chunk.
 2.	rerun all the sections: “Install”, “Import and Drive Mount”, “Dataset Preparation”, “LSA models”, “LDA models with sklearn”, “LDA models with Gensim”, “LDA models with Multicore”, and “BERTopic models”.
-3.	in order to run the “Top2Vec” section it is necessary to restart the session, then run the “Import and Drive Mount”, “Data Preparation” sections and then the “Top2Vec” section
+3.	in order to run the “Top2Vec” section it is necessary to restart the session, then run the “Import and Drive Mount”, “Data Preparation” sections and then the “Top2Vec” section.
+
+### This project was created in collaboration with Eleonora Brambatti and Camilla Fracchia, fellow students at the University of Milano-Bicocca.
 
